@@ -24,7 +24,7 @@ header {
 
 /* MARK: - First Block Start */
 #first-block {
-  background-image: url("../images/asai.jpg");
+  background-image: url("../images/アップルパイ.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -123,11 +123,11 @@ h1 {
   height: auto;
 }
 .image-second{
-  background-image: url("../images/cat.jpg");
+  background-image: url("../images/漫画読む猫.png");
   background-size:  cover;
   background-position-y: center;
   background-position-x: center;
-  width: 400px;
+  width: 300px;
   height: auto;
 }
 .image-third{
